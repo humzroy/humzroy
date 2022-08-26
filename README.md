@@ -1,7 +1,7 @@
 ### Hi there 👋
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=qdwu)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=humzroy)
 <!--
-**qdwu/qdwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**humzroy/humzroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
